@@ -42,6 +42,8 @@ This project can be used by:
 •	Product teams to improve service offerings
 •	Marketing teams to target high-value customers
 •	Operations teams for optimizing delivery and logistics
+
+
 ✅ Conclusion
 This Power BI project successfully transforms raw operational data from Blinkit into a dynamic, easy-to-understand dashboard that enables data-driven decision-making. By visualizing key metrics such as order volume, revenue trends, customer behavior, and delivery performance, the report provides valuable insights that can help improve business strategies, customer satisfaction, and overall efficiency.
 This project not only showcases my skills in data modeling, DAX, and dashboard design but also demonstrates the power of analytics in the fast-paced quick-commerce industry.
