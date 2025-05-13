@@ -9,21 +9,21 @@ This project is a comprehensive data analysis and dashboard report built in Powe
 •	Provide actionable insights for improving operational efficiency.
 
 📊 Dashboard Highlights
-1.	KPI Cards
+###1.KPI Cards
 ##### Total Orders, Revenue, Profit, and Delivery Time
 #####	Average Order Value (AOV)
-2.	Trend Analysis
+###2.	Trend Analysis
 ##### Monthly/Weekly Revenue Trends
 ##### Daily Order Volume and Fulfillment Status
-3.	Customer Insights
+###3.	Customer Insights
 ##### New vs. Returning Customers
 ##### Most Frequent Delivery Locations
 ##### Order Frequency & Patterns
-4.	Product & Category Performance
+###4.	Product & Category Performance
 #####	Top-selling Categories & Products
 #####	Low-performance SKUs
 #####	Contribution to Revenue
-5.	Delivery Analysis
+###5.	Delivery Analysis
 ##### Average Delivery Time by Area
 ##### Late Deliveries Heatmap
 ##### Delivery Partner Performance
