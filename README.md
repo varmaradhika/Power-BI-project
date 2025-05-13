@@ -10,7 +10,7 @@ This project is a comprehensive data analysis and dashboard report built in Powe
 
 📊 Dashboard Highlights
 1.	KPI Cards
-## Total Orders, Revenue, Profit, and Delivery Time
+#### Total Orders, Revenue, Profit, and Delivery Time
 ##	Average Order Value (AOV)
 2.	Trend Analysis
 # Monthly/Weekly Revenue Trends
