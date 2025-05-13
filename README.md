@@ -10,23 +10,23 @@ This project is a comprehensive data analysis and dashboard report built in Powe
 
 📊 Dashboard Highlights
 #1.KPI Cards
-##### Total Orders, Revenue, Profit, and Delivery Time
-#####	Average Order Value (AOV)
+##### -Total Orders, Revenue, Profit, and Delivery Time
+##### -	Average Order Value (AOV)
 #2.	Trend Analysis
-##### Monthly/Weekly Revenue Trends
-##### Daily Order Volume and Fulfillment Status
+##### -Monthly/Weekly Revenue Trends
+##### -Daily Order Volume and Fulfillment Status
 #3.	Customer Insights
-##### New vs. Returning Customers
-##### Most Frequent Delivery Locations
-##### Order Frequency & Patterns
+##### -New vs. Returning Customers
+##### - Most Frequent Delivery Locations
+##### -Order Frequency & Patterns
 #4.	Product & Category Performance
-#####	Top-selling Categories & Products
-#####	Low-performance SKUs
-#####	Contribution to Revenue
+#####	-Top-selling Categories & Products
+#####	-Low-performance SKUs
+#####	-Contribution to Revenue
 #5.	Delivery Analysis
-##### Average Delivery Time by Area
-##### Late Deliveries Heatmap
-##### Delivery Partner Performance
+##### -Average Delivery Time by Area
+##### -Late Deliveries Heatmap
+##### -Delivery Partner Performance
 ⚙️ Tools & Technologies Used
 •	Power BI Desktop
 •	DAX (Data Analysis Expressions)
