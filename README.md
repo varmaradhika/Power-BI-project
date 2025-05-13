@@ -9,6 +9,7 @@ This project is a comprehensive data analysis and dashboard report built in Powe
 •	Provide actionable insights for improving operational efficiency.
 
 📊 Dashboard Highlights
+
 #1.KPI Cards
 ##### -Total Orders, Revenue, Profit, and Delivery Time
 ##### -	Average Order Value (AOV)
