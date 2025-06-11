@@ -34,9 +34,7 @@ This project is a comprehensive data analysis and dashboard report built in Powe
 •	Data Modeling
 •	CSV/Excel/SQL Data Sources (based on setup)
 ________________________________________
-📁 Files Included
-•	Blinkit project.pbix: Power BI dashboard file containing all visuals, models, and data transformations.
-________________________________________
+
 📈 Use Case
 This project can be used by:
 •	Business analysts for operational insights
