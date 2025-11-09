@@ -1,4 +1,4 @@
-# Power-BI-project
+# Blinkit Data- Analysis Project
 This project is a comprehensive data analysis and dashboard report built in Power BI, focused on understanding the business operations and performance of Blinkit—a leading Indian instant delivery service. The goal of this project is to provide interactive, insightful, and data-driven visualizations to aid in strategic decision-making.
 
 📌 Project Objectives
